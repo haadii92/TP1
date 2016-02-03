@@ -1,1 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Home</title>
+    </head>
 
+    <body>
+      <a href="Regle du jeu.html">Regle du jeu</a>           <a href="Meilleurs scores.html">Meilleurs scores</a>      <a href="Lancer une nouvelle partie.html">Lancer une nouvelle partie</a>      <a href="Rejoindre une partie en cours.html">Rejoindre une partie en cours</a>
+    </body>
+</html>

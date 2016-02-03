@@ -7,5 +7,23 @@
 
     <body>
       <a href="Regle du jeu.html">Regle du jeu</a>           <a href="Meilleurs scores.html">Meilleurs scores</a>      <a href="Lancer une nouvelle partie.html">Lancer une nouvelle partie</a>      <a href="Rejoindre une partie en cours.html">Rejoindre une partie en cours</a>
-    </body>
+
+<p>Bienvenue sur notre jeu de labyrinthe !</p>
+<p>Vous pouvez trouver ici les règles de notre jeu, et vous pouvez également naviguer sur les autres pages en cliquant sur leur lien. </p>
+
+<h1> RULES </h1>
+
+<h2> Rule #1 </h2>
+<p> In his tractibus navigerum nusquam visitur flumen sed in locis plurimis aquae suapte natura calentes emergunt ad usus aptae multiplicium medelarum. verum has quoque regiones pari sorte Pompeius Iudaeis domitis et Hierosolymis captis in provinciae speciem delata iuris dictione formavit. </p>
+
+<h2> Rule #2 </h2>
+<p> Oportunum est, ut arbitror, explanare nunc causam, quae ad exitium praecipitem Aginatium inpulit iam inde a priscis maioribus nobilem, ut locuta est pertinacior fama. nec enim super hoc ulla documentorum rata est fides.  </p>
+
+<h2> Rule #3 </h2>
+<p> Omitto iuris dictionem in libera civitate contra leges senatusque consulta; caedes relinquo; libidines praetereo, quarum acerbissimum extat indicium et ad insignem memoriam turpitudinis et paene ad iustum odium imperii nostri, quod constat nobilissimas virgines se in puteos abiecisse et morte voluntaria necessariam turpitudinem depulisse. Nec haec idcirco omitto, quod non gravissima sint, sed quia nunc sine teste dico. </p>
+
+<h2> Rule #4 </h2>
+<p> Haec ubi latius fama vulgasset missaeque relationes adsiduae Gallum Caesarem permovissent, quoniam magister equitum longius ea tempestate distinebatur, iussus comes orientis Nebridius contractis undique militaribus copiis ad eximendam periculo civitatem amplam et oportunam studio properabat ingenti, quo cognito abscessere latrones nulla re amplius memorabili gesta, dispersique ut solent avia montium petiere celsorum. </p>
+
+   </body>
 </html>
